@@ -1,0 +1,46 @@
+Welcome: siying, 20180714_2124 
+REST Version: 1.8, Release: 20130615
+Citation Information:
+Xiao-Wei Song, Zhang-Ye Dong, Xiang-Yu Long, Su-Fang Li, Xi-Nian Zuo, Chao-Zhe Zhu, Yong He, Chao-Gan Yan, Yu-Feng Zang. (2011) REST: A Toolkit for Resting-State Functional Magnetic Resonance Imaging Data Processing. PLoS ONE 6(9): e25031. doi:10.1371/journal.pone.0025031
+Now REST is Running on 0 workers.
+
+Extracting ROI time courses:	"F:\÷ÿ«Ï18-07-10\5BNT\PANDA_1.3.1_64\data\atlases\AAL\AAL_Contract_1024_2MM"
+	 Read 3D EPI functional images: "F:\÷ÿ«Ï18-07-10\5BNT\PANDA_1.3.1_64\data\atlases\AAL\AAL_Contract_1024_2MM".{Error using <a href="matlab:helpUtils.errorDocCallback('rest_spm_slice_vol')" style="font-weight:bold">rest_spm_slice_vol</a>
+Cant get filename.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('rest_spm_read_vols', 'D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_spm5_files\rest_spm_read_vols.m', 34)" style="font-weight:bold">rest_spm_read_vols</a> (<a href="matlab: opentoline('D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_spm5_files\rest_spm_read_vols.m',34,0)">line 34</a>)
+	Y(:,:,p,i) =
+    rest_spm_slice_vol(V(i),rest_spm_matrix([0
+    0 p]),V(i).dim(1:2),0);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('rest_ReadNiftiImage', 'D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_ReadNiftiImage.m', 110)" style="font-weight:bold">rest_ReadNiftiImage</a> (<a href="matlab: opentoline('D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_ReadNiftiImage.m',110,0)">line 110</a>)
+        Data = rest_spm_read_vols(V);
+
+Error in <a href="matlab:helpUtils.errorDocCallback('rest_readfile', 'D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_readfile.m', 71)" style="font-weight:bold">rest_readfile</a> (<a href="matlab: opentoline('D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_readfile.m',71,0)">line 71</a>)
+            [Outdata,Header]=
+            rest_ReadNiftiImage(hname,volumeIndex);
+            
+Error in <a href="matlab:helpUtils.errorDocCallback('rest_to4d', 'D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_to4d.m', 103)" style="font-weight:bold">rest_to4d</a> (<a href="matlab: opentoline('D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_to4d.m',103,0)">line 103</a>)
+                [theOneNiiFileTimePoint,
+                VoxelSize, Header] =
+                rest_readfile(theFilename,
+                'all');
+
+Error in <a href="matlab:helpUtils.errorDocCallback('rest_ExtractROITC', 'D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_ExtractROITC.m', 20)" style="font-weight:bold">rest_ExtractROITC</a> (<a href="matlab: opentoline('D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_ExtractROITC.m',20,0)">line 20</a>)
+[AllVolume,VoxelSize,theImgFileList,
+Header,nVolumn] =rest_to4d(ADataDir);
+
+Error in
+<a href="matlab:helpUtils.errorDocCallback('rest_ExtractROITC_gui>btnRun_Callback', 'D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_ExtractROITC_gui.m', 190)" style="font-weight:bold">rest_ExtractROITC_gui>btnRun_Callback</a> (<a href="matlab: opentoline('D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_ExtractROITC_gui.m',190,0)">line
+190</a>)
+        rest_ExtractROITC(handles.Cfg.DataDirs{i,1},
+        handles.Cfg.ROIDef,handles.Cfg.OutputDir);
+        
+Error in <a href="matlab:helpUtils.errorDocCallback('gui_mainfcn', 'D:\Program Files\MATLAB\R2013b\toolbox\matlab\guide\gui_mainfcn.m', 96)" style="font-weight:bold">gui_mainfcn</a> (<a href="matlab: opentoline('D:\Program Files\MATLAB\R2013b\toolbox\matlab\guide\gui_mainfcn.m',96,0)">line 96</a>)
+        feval(varargin{:});
+
+Error in <a href="matlab:helpUtils.errorDocCallback('rest_ExtractROITC_gui', 'D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_ExtractROITC_gui.m', 27)" style="font-weight:bold">rest_ExtractROITC_gui</a> (<a href="matlab: opentoline('D:\Brain_Toolboxes\spm12\toolbox\ratfMRI\REST_V1-2.8_130615\rest_ExtractROITC_gui.m',27,0)">line 27</a>)
+    gui_mainfcn(gui_State, varargin{:});
+} 
+Error while evaluating uicontrol Callback
+

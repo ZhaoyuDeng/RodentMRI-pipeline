@@ -1,0 +1,118 @@
+Original Atlas,Left Hemisphere Label,Right Hemisphere Label,Matter,Territories,System,Region of interest
+SIGMA,1171,1172,CSF,CSF,CSF,Ventricular System
+Waxholm,171,172,Grey Matter,Basal ganglia,Pallidum,Globus Pallidus
+Waxholm,731,732,Grey Matter,Basal ganglia,Striatal System,Striatum
+Waxholm,221,222,Grey Matter,Cerebellum,Sensory-Motor,Granule Cell Level of the Cerebellum
+Waxholm,341,342,Grey Matter,Cerebellum,Sensory-Motor,Molecular Layer of the Cerebellum
+Tohoku,31,32,Grey Matter,Cortex,Amygdala,Amygdalohyppocampic Area
+Tohoku,41,42,Grey Matter,Cortex,Amygdala,Amygdalopiriform Cortex
+Tohoku,491,492,Grey Matter,Cortex,Auditory System,Primary Auditory Cortex
+Tohoku,681,682,Grey Matter,Cortex,Auditory System,Secondary Auditory Cortex Dorsal Part
+Tohoku,691,692,Grey Matter,Cortex,Auditory System,Secondary Auditory Cortex Ventral Part
+SIGMA,211,212,Grey Matter,Cortex,Auditory System,Lateral Primary Auditory Cortex
+Tohoku,501,502,Grey Matter,Cortex,Cingular System,Primary Cingular Cortex
+Tohoku,701,702,Grey Matter,Cortex,Cingular System,Secondary Cingular Cortex
+Waxholm,71,72,Grey Matter,Cortex,Hippocampus Fomation,Cornu Ammonis 1
+Waxholm,81,82,Grey Matter,Cortex,Hippocampus Fomation,Cornu Ammonis 2
+Waxholm,91,92,Grey Matter,Cortex,Hippocampus Fomation,Cornu Ammonis 3
+Waxholm,101,102,Grey Matter,Cortex,Hippocampus Fomation,Dentate Gyrus
+Waxholm,151,152,Grey Matter,Cortex,Hippocampus Fomation,Fasciola Cinereum
+Waxholm,371,372,Grey Matter,Cortex,Hippocampus Fomation,Parasubiculum
+Waxholm,471,472,Grey Matter,Cortex,Hippocampus Fomation,Presubiculum
+Waxholm,741,742,Grey Matter,Cortex,Hippocampus Fomation,Subiculum
+Tohoku,11,12,Grey Matter,Cortex,Insular System,Agranular Dysgranular Insular Cortex
+Tohoku,21,22,Grey Matter,Cortex,Insular System,Agranular Insular Cortex
+Tohoku,121,122,Grey Matter,Cortex,Insular System,Dysgranular Insular Cortex
+Tohoku,451,452,Grey Matter,Cortex,Insular System,Posterior Agralunar Insular Cortex
+Tohoku,111,112,Grey Matter,Cortex,Limbic System,Dorso Lateral Orbital Cortex
+Tohoku,161,162,Grey Matter,Cortex,Limbic System,Frontal Association Cortex
+SIGMA,361,362,Grey Matter,Cortex,Limbic System,Orbitofrontal Region
+SIGMA,461,462,Grey Matter,Cortex,Limbic System,PreLimbic System
+Tohoku,511,512,Grey Matter,Cortex,Motor System,Primary Motor Cortex
+Tohoku,711,712,Grey Matter,Cortex,Motor System,Secondary Motor Cortex
+Waxholm,141,142,Grey Matter,Cortex,Olfactory System,Entorhinal Cortex
+Tohoku,251,252,Grey Matter,Cortex,Olfactory System,Lateral Entorhinal Cortex Internal part
+Tohoku,261,262,Grey Matter,Cortex,Olfactory System,Lateral Entorhinal Cortex
+Tohoku,271,272,Grey Matter,Cortex,Olfactory System,Lateral Entorhinal Cortex external part
+Tohoku,301,302,Grey Matter,Cortex,Olfactory System,Medial Entorhinal Cortex
+Waxholm,421,422,Grey Matter,Cortex,Olfactory System,Perirhinal Area 35
+Waxholm,431,432,Grey Matter,Cortex,Olfactory System,Perirhinal Area 36
+Tohoku,441,442,Grey Matter,Cortex,Olfactory System,Perirhinal Cortex
+Tohoku,281,282,Grey Matter,Cortex,Parietal System,Lateral Parietal Associative Cortex
+Tohoku,311,312,Grey Matter,Cortex,Parietal System,Medial Parietal Associative Cortex
+Tohoku,381,382,Grey Matter,Cortex,Parietal System,Parietal Cortex Postero Caudal Part
+Tohoku,391,392,Grey Matter,Cortex,Parietal System,Parietal Cortex Postero Dorsal Part
+Tohoku,401,402,Grey Matter,Cortex,Parietal System,Parietal Cortex Postero Rostral
+Tohoku,651,652,Grey Matter,Cortex,Retrosplenial System,Retosplenial Dysgranular Cortex
+Tohoku,661,662,Grey Matter,Cortex,Retrosplenial System,Retrosplenial Granular Cortex Part A
+Tohoku,671,672,Grey Matter,Cortex,Retrosplenial System,Retrosplenial Granular Cortex Part B
+Tohoku,521,522,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Barrel field
+Tohoku,531,532,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Dysgranular
+Tohoku,541,542,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Dysgranular Zone 0
+Tohoku,551,552,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Forelimb
+Tohoku,561,562,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Hindlimb
+Tohoku,571,572,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Jaw
+Tohoku,581,582,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex
+Tohoku,591,592,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Shoulder
+Tohoku,601,602,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Trunk
+Tohoku,611,612,Grey Matter,Cortex,Somatosensory System,Primary Somatosensory Cortex Upperlips
+Tohoku,721,722,Grey Matter,Cortex,Somatosensory System,Secondary Somatosensory Cortex
+Tohoku,131,132,Grey Matter,Cortex,Temporal System,Ectorhinal Cortex
+SIGMA,201,202,Grey Matter,Cortex,Temporal System,Lateral Temporal Associative Cortex
+Tohoku,771,772,Grey Matter,Cortex,Temporal System,Temporal Associative Cortex
+Tohoku,291,292,Grey Matter,Cortex,Visual System,Lateral Secondary Visual Cortex
+Tohoku,321,322,Grey Matter,Cortex,Visual System,Medio Lateral Secondary Visual Cortex
+Tohoku,331,332,Grey Matter,Cortex,Visual System,Medio Medial Secondary Visual Cortex
+Tohoku,621,622,Grey Matter,Cortex,Visual System,Primary Visual Cortex Binocular Area
+Tohoku,631,632,Grey Matter,Cortex,Visual System,Primary Visual Cortex
+Tohoku,641,642,Grey Matter,Cortex,Visual System,Primary Visual Cortex Monocular Area
+Waxholm,61,62,Grey Matter,Diencephalon,Thalamus,Bed Nucleus of the Stria Terminalis
+Waxholm,231,232,Grey Matter,Diencephalon,Hypothalamus,Hypothalamic Region
+Waxholm,411,412,Grey Matter,Diencephalon,Tegmentum,Periaqueductal Gray
+Waxholm,481,482,Grey Matter,Diencephalon,Visual System,Pretectal Region
+Waxholm,971,972,Grey Matter,Diencephalon,Medulla,External Cortex of the Inferior Colliculus 
+Waxholm,1061,1062,Grey Matter,Diencephalon,Septum,Septal Region
+Waxholm,51,52,Grey Matter,Forebrain,Forebrain,Basal Forebrain Region
+SIGMA,241,242,Grey Matter,Mesencephalon,Tegmentum,Interpeduncular Nucleus
+Waxholm,751,752,Grey Matter,Mesencephalon,Tegmentum,Substantia Nigra
+Waxholm,761,762,Grey Matter,Mesencephalon,Colliculi,Superficial Gray Layer of the Superior Colliculus
+Waxholm,181,182,Grey Matter,Olfactive Bulb,Olfactory System,Glomerular Layer of the Accessory Olfactory Bulb
+Waxholm,191,192,Grey Matter,Olfactive Bulb,Olfactory System,Glomerular Layer of the Olfactory Bulb
+Waxholm,351,352,Grey Matter,Olfactive Bulb,Olfactory System,Olfactory Bulb
+Waxholm,801,802,White Matter,Basal ganglia,Inter Hemispheric Commisures,Anterior Commissure anterior part
+Waxholm,811,812,White Matter,Basal ganglia,Inter Hemispheric Commisures,Anterior Commissure posterior part
+Waxholm,1091,1092,White Matter,Basal ganglia,Inter Hemispheric Commisures,Dorsal Fornix
+Waxholm,821,822,White Matter,Brainstem,Sensory System,Ascending Fibers of the Facial Nerve
+Waxholm,841,842,White Matter,Brainstem,Medulla,Brainstem
+Waxholm,851,852,White Matter,Brainstem,Medulla,Central Canal
+Waxholm,921,922,White Matter,Brainstem,Sensory System,Genu of the Facial Nerve
+Waxholm,1031,1032,White Matter,Brainstem,Medulla,Inferior Olive/PyramidalDecusation/SP5
+Waxholm,1041,1042,White Matter,Brainstem,Medulla,Posterior Commissure
+Waxholm,1101,1102,White Matter,Brainstem,Medulla,Fimbria of the Hippocampus
+Waxholm,1161,1162,White Matter,Brainstem,Medulla,Periventricular Grey
+Waxholm,991,992,White Matter,Cerebellum,Spinocerebellar Pathway ,Medial Lemniscus Decussation
+Waxholm,1001,1002,White Matter,Cerebellum,Spinocerebellar Pathway ,Medial Lemniscus
+Waxholm,1011,1012,White Matter,Cerebellum,Somatosensory System,Middle Cerebellar Peduncle 
+Waxholm,1051,1052,White Matter,Cerebellum,Cerebellopontine Pathway,Pyramidal tract
+Waxholm,781,782,White Matter,Cortex,Hippocampus Fomation,Fimbria of the Hippocampus
+Waxholm,941,942,White Matter,Cortex,Hippocampus Fomation,Fimbria of the Hippocampus
+Waxholm,961,962,White Matter,Cortex,Inter Hemispheric Commisures,Inferior Cerebellar Peduncle/Spinal Trigeminal Tract
+Waxholm,861,862,White Matter,Diencephalon,Thalamus,Commissural Stria Terminalis
+Waxholm,951,952,White Matter,Diencephalon,Thalamus,Fornix
+Waxholm,981,982,White Matter,Diencephalon,Inter Hemispheric Commisures,Mammillothalamic Tract
+Waxholm,1021,1022,White Matter,Diencephalon,Thalamus,Optic Tract and Optic Chiasm
+Waxholm,1071,1072,White Matter,Diencephalon,Sensory System,Spinal Cord
+Waxholm,1111,1112,White Matter,Diencephalon,Thalamus,Subthalamic Nucleus
+Waxholm,1131,1132,White Matter,Diencephalon,Thalamus,Thalamus 
+Waxholm,1141,1142,White Matter,Diencephalon,Pons,Brachium Pontis
+Waxholm,1151,1152,White Matter,Diencephalon,Thalamus,Ventral Hippocampal Commissure
+Waxholm,891,892,White Matter,Fiber tract,Corpus Callosum,Corpus Callosum and Associated Subcortical White Matter
+Waxholm,911,912,White Matter,Fiber tract,Internal Capsule,Descending Corticofugal Pathways and Globus Pallidum
+Waxholm,931,932,White Matter,Fiber tract,Thalamus,Fasciculus Retroflexus
+Waxholm,831,832,White Matter,Mesencephalon,Colliculi,Brachium of the Superior Colliculus
+Waxholm,871,872,White Matter,Mesencephalon,Colliculi,Commissure of the Inferior Colliculus
+Waxholm,881,882,White Matter,Mesencephalon,Colliculi,Commissure of the Superior Colliculus
+Waxholm,901,902,White Matter,Mesencephalon,Inter Hemispheric Commisures,Deeper Layers of the Superior Colliculus
+Waxholm,1081,1082,White Matter,Mesencephalon,Medulla,SP5
+Waxholm,791,792,White Matter,Olfactory Bulb,Inter Hemispheric Commisures,Anterior Commissure Intrabulbar part
+Waxholm,1121,1122,White Matter,Spinal Cord,Fiber tract,Optic Pathways 
