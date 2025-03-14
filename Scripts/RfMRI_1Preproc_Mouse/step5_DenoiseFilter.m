@@ -26,7 +26,7 @@ CSFMask = [TemplateDir,filesep,'TMBTA_CSF.nii'];
 % get all folders with 'sub' prefix
 subjNames = dir([dataRoot, filesep, 'sub*']);
 
-% Calculate ARWSDC£¬no Filter£¬for ALFF and fALFF
+% Calculate ARWSDC no Filter for ALFF and fALFF
 for i=1:length(subjNames)
     subjName = subjNames(i).name;
     % preprocessed data with smooth
@@ -44,7 +44,7 @@ for i=1:length(subjNames)
     disp([subjName, '  done...']);
 end
 
-% Calculate ARWDCF£¬no Smooth£¬for ReHo and ROI-wise FC
+% Calculate ARWDCF no Smooth for ReHo and ROI-wise FC
 for i=1:length(subjNames)
     subjName = subjNames(i).name;
     % preprocessed data without smooth
@@ -62,7 +62,7 @@ for i=1:length(subjNames)
     disp([subjName, '  done...']);
 end
 
-% Calculate ARWSDCF£¬with Smooth & Filter£¬for voxel-wise FC
+% Calculate ARWSDCF with Smooth & Filter for voxel-wise FC
 for i=1:length(subjNames)
     subjName = subjNames(i).name;
     % preprocessed data with Smooth & Filter
