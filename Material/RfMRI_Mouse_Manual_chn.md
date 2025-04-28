@@ -22,10 +22,10 @@
 > 可参考此脚本：`Scripts/Utilities/Convert2NIfTI.sh`
 
 2. 检查数据，并手动按照下面的数据结构整理数据：
-
+（被试文件夹以“sub”开头即可）
 ```
 .
-└── sub1
+└── sub01
     ├── rest
     │   └── rest.nii
     └── T2

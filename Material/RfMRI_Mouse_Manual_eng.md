@@ -22,10 +22,10 @@ Before data processing, key parameters of the rfMRI sequence need to be obtained
 > You can refer to this script: `Scripts/Utilities/Convert2NIfTI.sh`
 
 2. Check the data and manually organize them according to the following data structure:
-
+(subject folder with "sub" prefix)
 ```
 .
-└── sub1
+└── sub01
     ├── rest
     │   └── rest.nii
     └── T2
