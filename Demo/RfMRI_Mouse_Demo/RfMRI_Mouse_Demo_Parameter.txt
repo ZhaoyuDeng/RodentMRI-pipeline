@@ -1,0 +1,5 @@
+nslices = 25; 			% number of slices
+TR = 2; 			% repetition time 
+slice_order = [1:2:25,2:2:24]; 	% slice order, in MATLAB index starts with 1
+reference_slice = 25; 		% reference slice 
+n_scan = 300; 			% number of scans (time points)
